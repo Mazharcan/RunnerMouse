@@ -1,2 +1,2 @@
 # RunnerMouse
-Unity 3D runner oyun deposu.
+Unity 3D runner game repository.
